@@ -1,4 +1,5 @@
+# _Title_: Ca ii K Polar Network Index of the Sun: A Proxy for Historical Polar Magnetic Field
 
-# Polar Network Index (PNI) from KoSO Ca II K Data
+## _Authors_: Mishra D.K., Jha B.K., Chatzistergos T., Ermolli I., Banerjee D., Upton L.A.
 
-Data available and citable at: [![DOI](https://zenodo.org/badge/918024308.svg)](https://doi.org/10.5281/zenodo.14676548)
+[![DOI](https://zenodo.org/badge/918024308.svg)](https://doi.org/10.5281/zenodo.14676548)
