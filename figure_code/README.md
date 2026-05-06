@@ -8,7 +8,7 @@ DOI: https://doi.org/10.3847/1538-4357/adb3a8
 
 ## Contents
 
-- `notebooks/ca_ii_k_pni_paper_figures.ipynb` - renamed and reduced from `theo_koso_data.ipynb`; only published-journal figure cells are kept.
+- `notebooks/ca_ii_k_pni_paper_figures.ipynb`; only published-journal figure cells are kept.
 - `figures/published/` - published figure exports, renamed by journal figure number.
 - `data/saved_states/` - required `.sav` inputs for the retained figure cells.
 - `data/text_outputs/` - required PNI text tables.
