@@ -1,0 +1,154 @@
+% C. CONSOLIDATED & CALIBRATED FACULAR COUNTS FOR THE NORTH POLE BY NEIL SHEELEY JR. AND ANDRES MUNOZ-JARAMILLO
+%
+% VERSION 2 - Please indicate version used in scientific publications in case of changes.
+%
+% Faculae counted by hand on the best 5 images during the periods of maximum North pole coverage
+% (August 15-September 15) and averaged.  Standard deviation has been turned into standard error by
+% dividing it by sqrt(5).  Years with multiple observations have been averaged as well as their
+% their standard errors.
+%
+% Calibration between campaigns was made taking advantage of the overlaps between them.   All campaigns
+% were standardized to the values of the 3rd campaign in order to reduce error propagation.
+% Calibration factors used were:
+%
+% 1. To turn 1st campaign values into 2nd campaign:  0.8733 +/- 0.0343
+% 2. To turn 2nd campaign values into 3rd campaign:  0.7293 +/- 0.1918
+% 3. To turn 4th campaign values into 3rd campaign:  1.6601 +/- 0.1861
+%
+% Original papers reporting the different data reduction campaigns are:
+%
+% 1st Campaign:
+% Sheeley N. R. Jr. 1964 ApJ 140 731
+% Sheeley N. R. Jr. 1966 ApJ 144 723
+%
+% 2nd Campaign:
+% Sheeley N. R. Jr. 1976 J. Geophys. Res. 81 3462
+%
+% 3rd Campagin:
+% Sheeley N. R. Jr. 1991 ApJ 374 386
+%
+% 4th Campagin:
+% Sheeley N. R. Jr. 2008 ApJ 680 1553
+%
+% Details on the consolidation and calibration of the different campaigns can be found in:
+%
+% A. Munoz-Jaramillo, N. R. Sheeley, Jr., J. Zhang, and E. E. DeLuca
+% CALIBRATING 100 YEARS OF POLAR FACULAE MEASUREMENTS: IMPLICATIONS
+% FOR THE EVOLUTION OF THE HELIOSPHERIC MAGNETIC FIELD
+% ApJ, 753, 146. (2012)  doi:10.1088/0004-637X/753/2/146
+%
+% Paper available from:
+% http://www.solardynamo.org/docs/Munoz-Jaramillo_etal_ApJ2012.pdf
+% 
+%
+% First column indicates time of measurement, all other columns alternate between facular count (Count)
+% and standard error of the mean (SEM).  The first number on each column indicates the campaign (Cm) it belongs to.
+% For example, 1st_Cm- Count indicates the count of polar faculae (Ct) in the first campaign (Cm).  3rd_Cm - SE
+% indicates the standard error of the mean (SEM) of facular count in the third campaign (Cm) 
+%
+% FOR INFORMATION AND INQUIRIES, PLEASE VISIT:  www.solardynamo.org
+%
+% Created on 11-Nov-2015
+%
+%     Date (Yrs)   1st_Cm- Count    1st_Cm - SEM   2nd_Cm- Count    2nd_Cm - SEM   3rd_Cm- Count    3rd_Cm - SEM   4th_Cm- Count    4th_Cm - SEM
+   1.9066658e+03  -2.3565215e+00   1.0596232e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9076658e+03  -1.9106931e+00   5.8246248e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9086658e+03   1.8470033e+00   8.6502079e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9096658e+03   6.6237360e+00   2.2650386e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9106658e+03   9.6171551e+00   2.7995974e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9116658e+03   7.5153927e+00   2.3741248e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9126658e+03   8.7254984e+00   2.4269953e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9136658e+03   1.3120092e+01   4.5037891e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9146658e+03   1.0954640e+01   3.4514960e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9156658e+03   1.5667683e+01   4.3191467e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9166658e+03   2.7386601e+00   9.2457263e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9176658e+03   6.3689769e-01   4.5958573e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9186658e+03  -1.6559340e+00   7.1999920e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9196658e+03  -1.4457578e+01   4.3980450e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9206658e+03  -3.0953228e+01   8.7096309e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9216658e+03  -2.5348528e+01   6.8611740e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9226658e+03  -2.9934191e+01   8.3623621e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9236658e+03  -1.7450997e+01   5.0505733e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9246658e+03  -1.5795063e+01   4.2599774e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9256658e+03  -7.7701518e+00   2.7742788e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9266658e+03  -3.1207987e+00   1.4094999e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9276658e+03  -2.5475908e+00   9.8282992e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9286658e+03   3.1844884e-01   7.1709047e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9296658e+03   7.0058746e-01   3.8926691e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9306658e+03   4.3945941e+00   1.3684230e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9316658e+03   1.2483195e+01   3.8721570e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9326658e+03   1.3311162e+01   3.9945057e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9336658e+03   1.1718917e+01   3.3694650e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9346658e+03   1.4967096e+01   4.3804614e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9356658e+03   8.3115149e+00   2.8648818e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9366658e+03   1.0062984e+01   3.7853048e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9376658e+03   5.1588713e+00   1.6669495e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9386658e+03   1.7514686e+00   1.0553780e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9396658e+03  -2.4202112e+00   8.5946139e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9406658e+03  -1.5667683e+01   4.3937297e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9416658e+03  -1.3884370e+01   4.3162436e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9426658e+03  -1.2355815e+01   3.6647597e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9436658e+03  -2.4138422e+01   6.6036579e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9446658e+03  -3.2354403e+01   8.7972789e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9456658e+03  -2.3692594e+01   6.5023540e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9466658e+03  -1.6623030e+01   5.2816858e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9476658e+03  -4.4582838e+00   1.3214915e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9486658e+03  -3.1844884e-01   2.5648625e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9496658e+03   7.0058746e-01   2.9432387e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9506658e+03   2.5475908e+00   9.8282992e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9516658e+03   2.3947353e+01   7.5133213e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9526658e+03   3.9615036e+01   1.0799126e+01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9536658e+03   2.6176495e+01   7.2365733e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9546658e+03   2.6940772e+01   7.3615151e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9556658e+03   2.3628904e+01   6.6455730e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9566658e+03   1.2292125e+01   3.5161304e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9576658e+03   2.6112805e+00   1.0361272e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9586658e+03   3.3118680e+00   1.0975962e+00             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9596658e+03  -1.7833135e+00   6.8798094e-01             NaN             NaN             NaN             NaN             NaN             NaN
+   1.9606658e+03  -3.1526436e+01   8.5760406e+00  -3.1797480e+01   8.6034966e+00             NaN             NaN             NaN             NaN
+   1.9616658e+03  -4.1844178e+01   1.1402428e+01  -4.1861820e+01   1.1193490e+01             NaN             NaN             NaN             NaN
+   1.9626658e+03  -3.1653815e+01   9.1280033e+00  -3.0338880e+01   8.6446431e+00             NaN             NaN             NaN             NaN
+   1.9636658e+03  -1.4584957e+01   4.3870950e+00  -1.5315300e+01   4.1608244e+00             NaN             NaN             NaN             NaN
+   1.9646658e+03             NaN             NaN  -1.8232500e+01   5.0753184e+00             NaN             NaN             NaN             NaN
+   1.9656658e+03             NaN             NaN  -9.1891800e+00   2.9712683e+00             NaN             NaN             NaN             NaN
+   1.9666658e+03             NaN             NaN  -7.5847200e+00   2.6826801e+00             NaN             NaN             NaN             NaN
+   1.9676658e+03             NaN             NaN  -3.5006400e+00   1.2084296e+00             NaN             NaN             NaN             NaN
+   1.9686658e+03             NaN             NaN  -2.6254800e+00   1.0195539e+00             NaN             NaN             NaN             NaN
+   1.9696658e+03             NaN             NaN  -1.8961800e+00   7.4572616e-01             NaN             NaN             NaN             NaN
+   1.9706658e+03             NaN             NaN   1.7503200e+00   6.9585651e-01  -7.0000000e-01   5.1429563e-01             NaN             NaN
+   1.9716658e+03             NaN             NaN   3.3547800e+00   1.3917074e+00   4.0000000e-01   2.6832816e-01             NaN             NaN
+   1.9726658e+03             NaN             NaN   1.2252240e+01   3.6566274e+00   6.3000000e+00   2.0348219e+00             NaN             NaN
+   1.9736658e+03             NaN             NaN   1.0210200e+01   3.3419364e+00   1.3500000e+01   1.9230185e+00             NaN             NaN
+   1.9746658e+03             NaN             NaN             NaN             NaN   1.1600000e+01   1.9453791e+00             NaN             NaN
+   1.9756658e+03             NaN             NaN             NaN             NaN   1.3800000e+01   2.0571825e+00             NaN             NaN
+   1.9766658e+03             NaN             NaN             NaN             NaN   1.1100000e+01   2.5043961e+00             NaN             NaN
+   1.9776658e+03             NaN             NaN             NaN             NaN   1.2600000e+01   1.8112151e+00             NaN             NaN
+   1.9786658e+03             NaN             NaN             NaN             NaN   8.2000000e+00   1.7217723e+00             NaN             NaN
+   1.9796658e+03             NaN             NaN             NaN             NaN   6.2000000e+00   1.9230185e+00             NaN             NaN
+   1.9806658e+03             NaN             NaN             NaN             NaN   7.0000000e-01   3.8013156e-01             NaN             NaN
+   1.9816658e+03             NaN             NaN             NaN             NaN  -1.8000000e+00   5.5901699e-01             NaN             NaN
+   1.9826658e+03             NaN             NaN             NaN             NaN  -1.0000000e+01   9.6150923e-01             NaN             NaN
+   1.9836658e+03             NaN             NaN             NaN             NaN  -1.9100000e+01   2.1913466e+00             NaN             NaN
+   1.9846658e+03             NaN             NaN             NaN             NaN  -1.9800000e+01   1.7217723e+00             NaN             NaN
+   1.9856658e+03             NaN             NaN             NaN             NaN  -2.0000000e+01   1.6323296e+00  -1.9464672e+01   2.4704336e+00
+   1.9866658e+03             NaN             NaN             NaN             NaN  -2.4000000e+01   1.9230185e+00  -2.0170215e+01   2.6009451e+00
+   1.9876658e+03             NaN             NaN             NaN             NaN  -2.1700000e+01   1.5652476e+00  -1.9838195e+01   2.8367357e+00
+   1.9886658e+03             NaN             NaN             NaN             NaN  -1.5900000e+01   2.2137073e+00  -1.1205675e+01   2.1263627e+00
+   1.9896658e+03             NaN             NaN             NaN             NaN  -1.1600000e+01   1.9677398e+00  -8.8815350e+00   1.1935700e+00
+   1.9906658e+03             NaN             NaN             NaN             NaN  -4.0000000e-01   2.2360680e-01  -1.4110850e+00   5.0499331e-01
+   1.9916658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.9921200e+00   6.0850080e-01
+   1.9926658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.5770950e+01   3.8033099e+00
+   1.9936658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.4525875e+01   2.6243315e+00
+   1.9946658e+03             NaN             NaN             NaN             NaN             NaN             NaN   9.6285800e+00   1.3852910e+00
+   1.9956658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.1952720e+01   2.8765801e+00
+   1.9966658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.1205675e+01   2.4290517e+00
+   1.9976658e+03             NaN             NaN             NaN             NaN             NaN             NaN   1.7348045e+01   2.5979306e+00
+   1.9986658e+03             NaN             NaN             NaN             NaN             NaN             NaN   8.3835050e+00   1.3664160e+00
+   1.9996658e+03             NaN             NaN             NaN             NaN             NaN             NaN   5.2293150e+00   1.3192786e+00
+   2.0006658e+03             NaN             NaN             NaN             NaN             NaN             NaN   3.3202000e-01   9.0967898e-02
+   2.0016658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -7.4704500e-01   4.3785887e-01
+   2.0026658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -1.5770950e+00   4.7647175e-01
+   2.0036658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -1.1122670e+01   2.3608923e+00
+   2.0046658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -7.7194650e+00   1.0646761e+00
+   2.0056658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -5.4783300e+00   1.2341675e+00
+   2.0066658e+03             NaN             NaN             NaN             NaN             NaN             NaN  -9.8775950e+00   1.4707047e+00

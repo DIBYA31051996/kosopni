@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.jupyter_runtime/
+.matplotlib/
+
+# Ignore oversized saved state files from figure_code
+figure_code/data/saved_states/*.sav
